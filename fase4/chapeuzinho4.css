@@ -1,0 +1,44 @@
+body { background: url("../2040.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h3 { 
+
+    text-align: center;
+     margin-top: 100px;
+     margin-left: 100px;
+     margin-right: 100px;
+     font-family: 'Montagu Slab', serif;
+     background-color: white;
+     border-radius: 20px;
+     padding: 20px;
+     
+     
+}
+
+.caixa { 
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+     
+
+img { 
+    background: rgb(57, 168, 57);
+    border: solid 4px;
+    border-radius: 40px;
+    margin: 50px; 
+    padding: 20px;
+}
+
+ button { 
+    
+    display: flex;
+    align-self: center;
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    font-family: 'Montagu Slab', serif;
+
+}
