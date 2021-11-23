@@ -1,36 +1,31 @@
-body { 
-    background:url("../2040.jpg"); 
-    background-repeat: no-repeat;
-    background-size: cover;
+body {
+  background: url("../2040.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-h3 { 
-    
-    align-self: center;
-    text-align: center;
-     margin-top: 300px;
-     margin-left: 100px;
-     margin-right: 100px;
-     font-family: 'Montagu Slab', serif;
-     background-color: white;
-     border-radius: 20px;
-     padding: 20px;
-     
-     
+h3 {
+  align-self: center;
+  text-align: center;
+  margin-top: 300px;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: "Montagu Slab", serif;
+  background-color: white;
+  border-radius: 20px;
+  padding: 20px;
 }
 
-.caixa { 
-    margin-top: 50px;
-    display: flex;
-    justify-content: center;
+.caixa {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
 }
-     
 
-img { 
-    
-    background: rgb(57, 168, 57);
-    border: solid 4px;
-    border-radius: 40px;
-    margin: 20px; 
-    padding: 10px;
+img {
+  background: rgb(57, 168, 57);
+  border: solid 4px;
+  border-radius: 40px;
+  margin: 20px;
+  padding: 10px;
 }

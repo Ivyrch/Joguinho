@@ -1,6 +1,6 @@
 function redirecionar() { 
 
-    window.location.replace( "../fase1/index.html");
+    window.location.replace( "../index.html");
     
  
 

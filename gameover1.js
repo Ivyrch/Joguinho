@@ -1,4 +1,3 @@
 function redirecionar() {
-    window.location.href = ("../fase1/index.html");
- 
+  window.location.href = "./index.html";
 }
