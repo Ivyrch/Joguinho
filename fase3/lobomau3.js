@@ -13,7 +13,7 @@ function escolher() {
     }
 
     if (escolha == "2") {
-      window.location.replace("../fase4/lobomau5.html");
+      window.location.replace("../fase4/loboMau5.html");
     }
   }, 1000);
 }
