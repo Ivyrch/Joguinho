@@ -8,9 +8,9 @@ function fase1Chapeuzinho() {
   }
 
   if (escolha == "sim") {
-    window.location.replace("../fase2/chapeuzinho2.html");
+    window.location.replace("./fase2/chapeuzinho2.html");
   } else {
-    window.location.replace("../gameover1.html");
+    window.location.replace("./gameover1.html");
   }
 }
 
@@ -24,9 +24,9 @@ function fase1Vovozinha() {
   }
 
   if (escolha == "sim") {
-    window.location.replace("../fase2/vovozinha2.html");
+    window.location.replace("./fase2/vovozinha2.html");
   } else {
-    window.location.replace("../gameover1.html");
+    window.location.replace("./gameover1.html");
   }
 }
 
@@ -40,8 +40,8 @@ function fase1LoboMau() {
   }
 
   if (escolha == "sim") {
-    window.location.replace("../fase2/lobomau2.html");
+    window.location.replace("./fase2/lobomau2.html");
   } else {
-    window.location.replace("../gameover2.html");
+    window.location.replace("./gameover2.html");
   }
 }

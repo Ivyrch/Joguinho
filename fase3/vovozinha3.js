@@ -13,7 +13,7 @@ function escolher() {
     }
 
     if (escolha == "2") {
-      window.location.replace("../fase4/vovozinha5.html");
+      window.location.replace("../fase4/vovozinha6.html");
     }
   }, 1000);
 }
